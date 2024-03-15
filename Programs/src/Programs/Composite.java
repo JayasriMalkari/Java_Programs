@@ -13,6 +13,7 @@ public class Composite {
 		for(int i=2;i<=M;i++) {
 			if(Num%i==0) {
 				System.out.println("Composite");
+				System.out.println("Composite");
 				break;
 			}
 			else {
